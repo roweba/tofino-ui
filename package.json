@@ -1,13 +1,15 @@
 {
   "name": "tofino-ui",
   "theme": "ui",
-  "version": "1.0.0",
-  "description": "A short description of your UI theme",
+  "version": "0.0.0",
+  "description": "Inspired by a rainy day in Tofino.",
   "keywords": [
     "ui",
-    "theme"
+    "theme",
+    "tofino",
+    "light"
   ],
-  "repository": "https://github.com/atom-community/ui-theme-template",
+  "repository": "https://github.com/roweba/tofino-ui",
   "license": "MIT",
   "engines": {
     "atom": ">=1.0.0 <2.0.0"
